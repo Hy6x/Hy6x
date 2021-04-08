@@ -1,6 +1,6 @@
-<h1 align="center">[Hy6x.](https://hy6x.github.io)</h1>
+<h1 align="center">Hy6x.</h1>
 
-![challenge_yes](https://cdn.discordapp.com/attachments/827687981870481444/829612777718415410/9d73008e5789228e2fb467d3bc60cb15.gif)
+![Hy6x.](https://cdn.discordapp.com/attachments/827687981870481444/829612777718415410/9d73008e5789228e2fb467d3bc60cb15.gif)
 
 
 <p align="center">
