@@ -1,8 +1,5 @@
 <h1 align="center">Hy6x.</h1>
 
-![Hy6x.](https://cdn.discordapp.com/attachments/827687981870481444/829612777718415410/9d73008e5789228e2fb467d3bc60cb15.gif)
-
-
 <p align="center">
   <img src="https://img.shields.io/npm/v/readme-md-generator.svg?orange=blue" />
   <a href="https://www.npmjs.com/package/readme-md-generator">
@@ -29,7 +26,7 @@
 `readme-md-generator` is able to read your environment (package.json, git config...) to suggest you default answers during the `README.md` creation process:
 
 <p align="center">
-  <img width="700" align="center" src="https://user-images.githubusercontent.com/9840435/60266022-72a82400-98e7-11e9-9958-f9004c2f97e1.gif" alt="demo"/>
+  <img width="700" align="center" src="https://cdn.discordapp.com/attachments/827687981870481444/829612777718415410/9d73008e5789228e2fb467d3bc60cb15.gif" alt="demo"/>
 </p>
 
 Generated `README.md`:
