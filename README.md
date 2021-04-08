@@ -1,12 +1,8 @@
-Obviously, it is called **README**, so you are **reading** me now. Also I made [that one Discord bot](https://xela.dev/) which is probably better than MEE6, Tickets and Dyno, idk. 
-
-[link](#head1234)
-
-You can talk to me at [discord.gg/DpxkY3x](https://discord.gg/DpxkY3x).
+<h1 align="center">Welcome to readme-md-generator 👋</h1>
 
 ![challenge_yes](https://cdn.discordapp.com/attachments/827687981870481444/829612777718415410/9d73008e5789228e2fb467d3bc60cb15.gif)
 
-<h1 align="center">Welcome to readme-md-generator 👋</h1>
+
 <p align="center">
   <img src="https://img.shields.io/npm/v/readme-md-generator.svg?orange=blue" />
   <a href="https://www.npmjs.com/package/readme-md-generator">
