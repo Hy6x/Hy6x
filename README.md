@@ -11,8 +11,8 @@
   <a href="https://codecov.io/gh/kefranabg/readme-md-generator">
     <img src="https://codecov.io/gh/kefranabg/readme-md-generator/branch/master/graph/badge.svg" />
   </a>
-  <a href="https://github.com/frinyvonnick/gitmoji-changelog">
-    <img src="https://img.shields.io/badge/changelog-gitmoji-brightgreen.svg" alt="gitmoji-changelog">
+  <a href="https://www.youtube.com/c/CURSEDs">
+    <img alt="Youtube: Hy6x." src="https://img.shields.io/youtube/channel/subscribers/UC2CwouUKdPAblpdxAMpCgng?label=Hy6x.&style=social" target="_blank" />
   </a>
   <a href="https://twitter.com/FranckAbgrall">
     <img alt="Twitter: FranckAbgrall" src="https://img.shields.io/twitter/follow/FranckAbgrall.svg?style=social" target="_blank" />
