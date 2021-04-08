@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://www.youtube.com/c/CURSEDs">
-    <img alt="Youtube: Hy6x." src="https://img.shields.io/youtube/channel/subscribers/UC2CwouUKdPAblpdxAMpCgng?label=Hy6x.&style=social" target="_blank" />
+    <img alt="Youtube: Hy6x." src="https://img.shields.io/youtube/channel/subscribers/UC2CwouUKdPAblpdxAMpCgng?color=000000&label=Hy6x.&logo=Youtube&logoColor=000000&style=social" target="_blank" />
   </a>
 </p>
 
