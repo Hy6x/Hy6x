@@ -4,7 +4,7 @@ Obviously, it is called **README**, so you are **reading** me now. Also I made [
 
 You can talk to me at [discord.gg/DpxkY3x](https://discord.gg/DpxkY3x).
 
-![challenge_yes](https://i.alexflipnote.dev/4h93guy.png)
+![challenge_yes](https://cdn.discordapp.com/attachments/827687981870481444/829612777718415410/9d73008e5789228e2fb467d3bc60cb15.gif)
 
 <h1 align="center">Welcome to readme-md-generator 👋</h1>
 <p align="center">
